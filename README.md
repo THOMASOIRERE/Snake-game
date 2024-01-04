@@ -1,0 +1,1 @@
+This is a basic implementation of a Snake game using Pygame. You can run this script to play the game. Use the arrow keys to control the snake (left, right, up, down). The goal is to eat the red apples and grow the snake. If the snake collides with the walls or itself, the game ends. Press 'C' to play again or 'Q' to quit when the game is over.
